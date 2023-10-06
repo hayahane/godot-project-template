@@ -10,6 +10,7 @@
         "**/.godot":true,
         "**/*.gdignore":true,
         "**/*.obj":true,
-        "**/*.dblite":true
+        "**/*.dblite":true,
+        "**/*.os":true
     }
 }
