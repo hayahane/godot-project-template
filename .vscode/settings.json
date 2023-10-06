@@ -1,0 +1,14 @@
+{
+    "godot_tools.editor_path": "d:\\GodotEngine\\Godot_v4.1.2\\Godot_v4.1.2-stable_mono_win64.exe",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.godot":true,
+        "**/*.gdignore":true,
+        "**/*.obj":true
+    }
+}
