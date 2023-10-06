@@ -9,6 +9,7 @@
         "**/Thumbs.db": true,
         "**/.godot":true,
         "**/*.gdignore":true,
-        "**/*.obj":true
+        "**/*.obj":true,
+        "**/*.dblite":true
     }
 }
