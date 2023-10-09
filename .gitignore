@@ -2,3 +2,5 @@
 Assets/.godot/
 **/*.obj
 **/*.dblite
+**/*.os
+**/*.o
