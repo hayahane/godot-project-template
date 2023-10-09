@@ -6,7 +6,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "name": "Debug",
-            "program": "D:/GodotEngine/Godot_v4.1.2/Godot_v4.1.2-stable_mono_win64.exe",
+            "program": "/Applications/Godot/Godot 4.1.2.app",
             "args": ["--path", "${workspaceFolder}"],
             "cwd": "${workspaceFolder}/Source"
         }

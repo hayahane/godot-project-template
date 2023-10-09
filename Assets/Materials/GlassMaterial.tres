@@ -1,0 +1,7 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://ggoqx8g0pjba"]
+
+[ext_resource type="Shader" path="res://Shaders/Glass.gdshader" id="1_8kllg"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_8kllg")
